@@ -15,11 +15,11 @@ C:/Users/histo/Documents/GitHub/ozzysQuestArcade
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-54884
+51311
 Successfully changed project path to: C:/Users/histo/Documents/GitHub/ozzysQuestArcade
 C:/Users/histo/Documents/GitHub/ozzysQuestArcade
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 72.72 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 99.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b8 (dff91d65251a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/Resources/UnitySubsystems
@@ -35,24 +35,520 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56464
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.004820 seconds.
+Registered in 0.007486 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 49.53 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 53.84 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.503 seconds
+- Completed reload, in  4.396 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001744 seconds.
+Registered in 0.002561 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.353 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1146 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 3.720700 ms (FindLiveObjects: 0.503700 ms CreateObjectMapping: 0.091900 ms MarkObjects: 3.039100 ms  DeleteObjects: 0.083600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(8707ba8d18aa5c14daa27cdd5db35609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(8707ba8d18aa5c14daa27cdd5db35609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8f81021e3c64a9b75c2412af761815') in 0.019702 seconds
+  Import took 0.024968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001103 seconds.
+  path: Assets/CharacterController2D.cs
+  artifactKey: Guid(8d6a822499978434bbf330005529d6da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterController2D.cs using Guid(8d6a822499978434bbf330005529d6da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db419960a99688daf40a85049b147bf7') in 0.078115 seconds
+  Import took 0.083343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Monster Purple - 1.png
+  artifactKey: Guid(cfcc44c16d0e7724d989780c400b8670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Purple - 1.png using Guid(cfcc44c16d0e7724d989780c400b8670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7e6db9e67a74d3736d86a06a86e099') in 0.254801 seconds
+  Import took 0.259224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Ozzy Big - Walk 3.png
+  artifactKey: Guid(5b9ba3ace0e28014f9250a322b49879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Walk 3.png using Guid(5b9ba3ace0e28014f9250a322b49879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea373f037f37332b73872816107d988b') in 0.038106 seconds
+  Import took 0.047368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Ozzy Big - Walk 1.png
+  artifactKey: Guid(acab69a2779d85b409bb241d9dd9fbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Walk 1.png using Guid(acab69a2779d85b409bb241d9dd9fbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df0618dc7115c3b0ce249476bb06ae7') in 0.036668 seconds
+  Import took 0.041996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Monster Fish 2.png
+  artifactKey: Guid(830003a21616360438bd1b4ca5455d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Fish 2.png using Guid(830003a21616360438bd1b4ca5455d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7df8420b7198b8f52e8570e3d83bc1b') in 0.052215 seconds
+  Import took 0.063169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Brick.png
+  artifactKey: Guid(d8bfdeb7fe64ae94e924d7546e340c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick.png using Guid(d8bfdeb7fe64ae94e924d7546e340c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f2c34999e68d036982b62212e30e9a') in 0.043618 seconds
+  Import took 0.050675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Monster Purple - Flat.png
+  artifactKey: Guid(5136e6d13cd0fa544992d85bf872b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Purple - Flat.png using Guid(5136e6d13cd0fa544992d85bf872b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927b2414f85c3e0380a84fc224b1fd61') in 0.052362 seconds
+  Import took 0.058471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Ozzy Snow - Jump.png
+  artifactKey: Guid(efa54dfd8f2a6c349ae5323064dfd66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Jump.png using Guid(efa54dfd8f2a6c349ae5323064dfd66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200c41c288a25887d1a0596f9406a334') in 0.040600 seconds
+  Import took 0.047397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001668 seconds.
+  path: Assets/Ozzy Big - Squatting.png
+  artifactKey: Guid(79521cb8c04705249801256cf781480d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Squatting.png using Guid(79521cb8c04705249801256cf781480d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a39d1fd28caa5b16d772846b338f344') in 0.047628 seconds
+  Import took 0.055623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Ozzy Small - Dies.png
+  artifactKey: Guid(e6e944f2ea328d44db23cfd7d6037825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Small - Dies.png using Guid(e6e944f2ea328d44db23cfd7d6037825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983813088040544076648f1e332cb202') in 0.048353 seconds
+  Import took 0.054759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Box - 1 copy.png
+  artifactKey: Guid(a373a7bb6a8304346a8544ffce16f10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box - 1 copy.png using Guid(a373a7bb6a8304346a8544ffce16f10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67cb358935792a6a3910d6e08bad758') in 0.046103 seconds
+  Import took 0.052768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Box - 2 copy.png
+  artifactKey: Guid(dbff5ba4813ab0441b75394d347a0e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box - 2 copy.png using Guid(dbff5ba4813ab0441b75394d347a0e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4eead5a16735cd90f40bd81fd98a9e') in 0.040221 seconds
+  Import took 0.046065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Ground 1 Tile.png
+  artifactKey: Guid(80f69217c7927da449705065945907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground 1 Tile.png using Guid(80f69217c7927da449705065945907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0588b3168ea81623e68536a8cd3951b6') in 0.047952 seconds
+  Import took 0.054711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Monster Snail - 1.png
+  artifactKey: Guid(78d042bd65d3a7246b5a68f3f0181e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Snail - 1.png using Guid(78d042bd65d3a7246b5a68f3f0181e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfad315e9f4b28a8c3631ae95280dce0') in 0.039621 seconds
+  Import took 0.046509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Monster Snail - 2.png
+  artifactKey: Guid(5ee26387ae9d8ec478c8218f36881186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Snail - 2.png using Guid(5ee26387ae9d8ec478c8218f36881186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e22473dc3f8b34351f579ba9b539aa5f') in 0.048615 seconds
+  Import took 0.054700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Ozzy Snow - Front.png
+  artifactKey: Guid(52768b6a5ca353744bd508ab0d8cae8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Front.png using Guid(52768b6a5ca353744bd508ab0d8cae8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930672fbd1c978b8f17014533bacc54e') in 0.046725 seconds
+  Import took 0.052438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/Monster Snail - Flat.png
+  artifactKey: Guid(a75228d06d5ece54b98f3db8a778a36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Snail - Flat.png using Guid(a75228d06d5ece54b98f3db8a778a36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3c1ae7efe8c7a26b299932852f2662') in 0.063244 seconds
+  Import took 0.071107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Ozzy Big - Swimming 1.png
+  artifactKey: Guid(8eb5759d10fa5bf4da7620e10e988089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Swimming 1.png using Guid(8eb5759d10fa5bf4da7620e10e988089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681dcdbcd6056de53c6afcfd730b0ae3') in 0.040053 seconds
+  Import took 0.046899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Monster Orange - 1.png
+  artifactKey: Guid(bcd5e2f5718eef043af3a0d3bd8d02b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Orange - 1.png using Guid(bcd5e2f5718eef043af3a0d3bd8d02b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50e85a9dce82462665974f19e266aff') in 0.039897 seconds
+  Import took 0.047669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Monster Blue - 2.png
+  artifactKey: Guid(c44306757eefa3a4b964d8e0251c6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Blue - 2.png using Guid(c44306757eefa3a4b964d8e0251c6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959eac696587c3000d409c081259984f') in 0.036082 seconds
+  Import took 0.041116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Ozzy Snow - Squatting.png
+  artifactKey: Guid(75ba3249b8e8ab5418011861bacda9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Squatting.png using Guid(75ba3249b8e8ab5418011861bacda9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5229ea09fc869df19069e6815465f26e') in 0.035867 seconds
+  Import took 0.040948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Monster Yellow - 2.png
+  artifactKey: Guid(78cf862f0bce2d944bfea318cc22bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Yellow - 2.png using Guid(78cf862f0bce2d944bfea318cc22bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a3f8a11bae539037422b7d954b7c5c') in 0.043687 seconds
+  Import took 0.049377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/tilesetOpenGameBackground.png
+  artifactKey: Guid(be6546332b265ae4cbcecb233e469ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilesetOpenGameBackground.png using Guid(be6546332b265ae4cbcecb233e469ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be034abcbbaebd46d5578fdaa824dd5') in 0.040732 seconds
+  Import took 0.045001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Monster Blue - Flat.png
+  artifactKey: Guid(64904a81027411f42a9217ec9082240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Blue - Flat.png using Guid(64904a81027411f42a9217ec9082240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7d7d402fe51b2d31ac649969764497') in 0.037114 seconds
+  Import took 0.041573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/Ozzy Big - Jump.png
+  artifactKey: Guid(c3245133bb0e1de4d83bf789e0969940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Jump.png using Guid(c3245133bb0e1de4d83bf789e0969940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c86ea2ff9b51ad6fceba20ed496e1e') in 0.036164 seconds
+  Import took 0.043768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Box - 3 copy.png
+  artifactKey: Guid(8119381155406bc4c8779988befd9900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box - 3 copy.png using Guid(8119381155406bc4c8779988befd9900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f10b789253c29a45f5bfb30c44e9c7a') in 0.047875 seconds
+  Import took 0.052930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Ozzy Snow - Walk 2.png
+  artifactKey: Guid(087c710d730d7734fa9577513c4b6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Walk 2.png using Guid(087c710d730d7734fa9577513c4b6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad7f33c998af0236b4fddd7c9220bcd') in 0.034126 seconds
+  Import took 0.039330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/PlayerMovement.cs
+  artifactKey: Guid(38c7741518d783e47a31dba930057f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovement.cs using Guid(38c7741518d783e47a31dba930057f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722586d482b5fdca263c7c73a9b4a8cb') in 0.012497 seconds
+  Import took 0.016839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Ozzy Big - Skid.png
+  artifactKey: Guid(9302cf2fac31f8b4bb859546f4499966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Skid.png using Guid(9302cf2fac31f8b4bb859546f4499966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1914de9db4ed467514fba75ab8ba2ab1') in 0.043919 seconds
+  Import took 0.049403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Monster Yellow - 1.png
+  artifactKey: Guid(8d0f9877cb60d074ab48efb3357a53a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Yellow - 1.png using Guid(8d0f9877cb60d074ab48efb3357a53a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4651a99194c9e32b1b16acbe87f4744a') in 0.034762 seconds
+  Import took 0.038891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Ozzy Snow - Skid.png
+  artifactKey: Guid(47acbdf17b36fef438695f47c3ca05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Skid.png using Guid(47acbdf17b36fef438695f47c3ca05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2311875e67219f1614e8490380a73076') in 0.077364 seconds
+  Import took 0.083094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Ozzy Big - Swimming 3.png
+  artifactKey: Guid(6e6081716d972fd44906baed422e4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Swimming 3.png using Guid(6e6081716d972fd44906baed422e4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1961ada75ec4268d9dff026ff57f83') in 0.078480 seconds
+  Import took 0.085151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Ozzy Snow - Walk 1.png
+  artifactKey: Guid(5baa56bf3e582da40a197ba29406a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Walk 1.png using Guid(5baa56bf3e582da40a197ba29406a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a55e80f6bf5ce12d46e4bd610e07e82') in 0.038356 seconds
+  Import took 0.043550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Monster Yellow - Flat.png
+  artifactKey: Guid(cdadb87d53b7bc143b363568892cd446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Yellow - Flat.png using Guid(cdadb87d53b7bc143b363568892cd446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c875ef75846f47b705a60efa5ff866fb') in 0.063014 seconds
+  Import took 0.070308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/download.png
+  artifactKey: Guid(5afd89db5e771f24bae3b64c5f5a410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.png using Guid(5afd89db5e771f24bae3b64c5f5a410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573ea1f359f0a7aa9ca1b018c34b3352') in 0.036649 seconds
+  Import took 0.047230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Monster Blue - 1.png
+  artifactKey: Guid(ad39148ccfe02e04782ef0b63e7297f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Blue - 1.png using Guid(ad39148ccfe02e04782ef0b63e7297f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424d7cfde90bdcb204e7c890fb21cf1c') in 0.055623 seconds
+  Import took 0.065766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Monster Orange - 2.png
+  artifactKey: Guid(8bbb9e14971e7804a9c2830d240d6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Orange - 2.png using Guid(8bbb9e14971e7804a9c2830d240d6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf396bc3f40811f87ccd0fedb5b9063d') in 0.050762 seconds
+  Import took 0.057562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Ozzy Big - Walk 2.png
+  artifactKey: Guid(45bc9101b2aef6440be96757e6846ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Walk 2.png using Guid(45bc9101b2aef6440be96757e6846ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7df5401de6cbfadf8420c819ac065f9') in 0.065005 seconds
+  Import took 0.071776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Monster Purple - 2.png
+  artifactKey: Guid(77ad53ab120bdd34fa16a5cab6a4f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Purple - 2.png using Guid(77ad53ab120bdd34fa16a5cab6a4f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f0dc3748f814a27d0c15a325a966d6') in 0.043010 seconds
+  Import took 0.048790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Mushroom - 1UP.png
+  artifactKey: Guid(62abc7e7785abb9448a69ecfb7fe58a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mushroom - 1UP.png using Guid(62abc7e7785abb9448a69ecfb7fe58a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56dcd61f3327174084b5e554a870ace9') in 0.051020 seconds
+  Import took 0.057432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Monster Fish 1.png
+  artifactKey: Guid(2f7ec516c1a264d49a173bf79a254a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Fish 1.png using Guid(2f7ec516c1a264d49a173bf79a254a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d8768280652687cac7c287124b6b8d') in 0.043878 seconds
+  Import took 0.049668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/Monster Orange - Flat.png
+  artifactKey: Guid(ced0920503ac2db428b510ab3365bd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Orange - Flat.png using Guid(ced0920503ac2db428b510ab3365bd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506e25ac75bc755ec5a23d0d640fbfbc') in 0.053107 seconds
+  Import took 0.060250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Ozzy Big - Swimming 2.png
+  artifactKey: Guid(9270f4160cadd4e4283c840c95fd0266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Swimming 2.png using Guid(9270f4160cadd4e4283c840c95fd0266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c47c2dab89eb435632d32da5b04551f') in 0.041869 seconds
+  Import took 0.048595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Ozzy Big - Front.png
+  artifactKey: Guid(59e3ca3def15b6c4c9d282372d0e8595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Front.png using Guid(59e3ca3def15b6c4c9d282372d0e8595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b628a0f8064c29a792f9e6a5e09d3684') in 0.046246 seconds
+  Import took 0.051311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Ozzy Snow - Walk 3.png
+  artifactKey: Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Walk 3.png using Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b3c337da4c437e04e1e7661f4abeb5') in 0.041892 seconds
+  Import took 0.046800 seconds .
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005370 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.846 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002202 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.729 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.6 MB.
+System memory in use after: 39.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 3.096600 ms (FindLiveObjects: 0.536500 ms CreateObjectMapping: 0.093500 ms MarkObjects: 2.438900 ms  DeleteObjects: 0.025100 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005415 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.797 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002090 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.7 MB.
+System memory in use after: 39.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 3.112600 ms (FindLiveObjects: 0.539200 ms CreateObjectMapping: 0.115800 ms MarkObjects: 2.432000 ms  DeleteObjects: 0.023400 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005245 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.894 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002161 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for LinuxStandalone target not found
@@ -63,369 +559,157 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.701 seconds
+- Completed reload, in  1.815 seconds
 Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
 Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.8 MB.
-System memory in use after: 58.9 MB.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.8 MB.
+System memory in use after: 39.9 MB.
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1585.
-Total: 3.342700 ms (FindLiveObjects: 0.461800 ms CreateObjectMapping: 0.090500 ms MarkObjects: 2.711600 ms  DeleteObjects: 0.077100 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 2.956500 ms (FindLiveObjects: 0.518400 ms CreateObjectMapping: 0.089000 ms MarkObjects: 2.323300 ms  DeleteObjects: 0.023900 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.006067 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.046 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002060 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.8 MB.
+System memory in use after: 39.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1635.
+Total: 3.059500 ms (FindLiveObjects: 0.516900 ms CreateObjectMapping: 0.097600 ms MarkObjects: 2.419100 ms  DeleteObjects: 0.023500 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005449 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.08 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.075 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002187 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.000 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.9 MB.
+System memory in use after: 40.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 3.568900 ms (FindLiveObjects: 0.422000 ms CreateObjectMapping: 0.081300 ms MarkObjects: 3.017800 ms  DeleteObjects: 0.044000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.005295 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.192 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002203 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.085 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 40.0 MB.
+System memory in use after: 40.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 3.133500 ms (FindLiveObjects: 0.518800 ms CreateObjectMapping: 0.220400 ms MarkObjects: 2.369000 ms  DeleteObjects: 0.023000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes
-  artifactKey: Guid(8707ba8d18aa5c14daa27cdd5db35609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(8707ba8d18aa5c14daa27cdd5db35609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8f81021e3c64a9b75c2412af761815') in 0.017464 seconds
-  Import took 0.021813 seconds .
+  Time since last request: 2157.250904 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83c66cae11481964070deaffaf40203') in 0.040471 seconds
+  Import took 0.046163 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001037 seconds.
-  path: Assets/Monster Purple - 1.png
-  artifactKey: Guid(cfcc44c16d0e7724d989780c400b8670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Purple - 1.png using Guid(cfcc44c16d0e7724d989780c400b8670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31698e9fff8afcf3a52c8ea0f7c9a310') in 0.236468 seconds
-  Import took 0.240685 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000340 seconds.
-  path: Assets/Ozzy Big - Walk 3.png
-  artifactKey: Guid(5b9ba3ace0e28014f9250a322b49879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Walk 3.png using Guid(5b9ba3ace0e28014f9250a322b49879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a348bbb598c60e33addcfd207157ea') in 0.031258 seconds
-  Import took 0.036188 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000332 seconds.
-  path: Assets/Ozzy Big - Walk 1.png
-  artifactKey: Guid(acab69a2779d85b409bb241d9dd9fbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Walk 1.png using Guid(acab69a2779d85b409bb241d9dd9fbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94999f501d3dedd958e0d2a3eee27b63') in 0.033352 seconds
-  Import took 0.039041 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/Monster Fish 2.png
-  artifactKey: Guid(830003a21616360438bd1b4ca5455d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Fish 2.png using Guid(830003a21616360438bd1b4ca5455d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1684fb1b4e375e80f3a08e28f2fde9f2') in 0.037453 seconds
-  Import took 0.043025 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000359 seconds.
-  path: Assets/Brick.png
-  artifactKey: Guid(d8bfdeb7fe64ae94e924d7546e340c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Brick.png using Guid(d8bfdeb7fe64ae94e924d7546e340c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dce789a3a7968db109b0a4c25521f835') in 0.035780 seconds
-  Import took 0.041076 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000540 seconds.
-  path: Assets/Monster Purple - Flat.png
-  artifactKey: Guid(5136e6d13cd0fa544992d85bf872b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Purple - Flat.png using Guid(5136e6d13cd0fa544992d85bf872b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe609e139bd26fc76782f253961c8a39') in 0.037012 seconds
-  Import took 0.044675 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000355 seconds.
-  path: Assets/Ozzy Snow - Jump.png
-  artifactKey: Guid(efa54dfd8f2a6c349ae5323064dfd66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Jump.png using Guid(efa54dfd8f2a6c349ae5323064dfd66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de17dc6717c66917bdce1ec4f447fd07') in 0.036555 seconds
-  Import took 0.043750 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000481 seconds.
-  path: Assets/Ozzy Big - Squatting.png
-  artifactKey: Guid(79521cb8c04705249801256cf781480d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Squatting.png using Guid(79521cb8c04705249801256cf781480d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1d6bab28a515de86146eed0bd5fdd6') in 0.032094 seconds
-  Import took 0.038361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/Ozzy Small - Dies.png
-  artifactKey: Guid(e6e944f2ea328d44db23cfd7d6037825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Small - Dies.png using Guid(e6e944f2ea328d44db23cfd7d6037825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e57edb3450c8865ee387ed20f7bb320') in 0.035396 seconds
-  Import took 0.041495 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000373 seconds.
-  path: Assets/Box - 1 copy.png
-  artifactKey: Guid(a373a7bb6a8304346a8544ffce16f10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Box - 1 copy.png using Guid(a373a7bb6a8304346a8544ffce16f10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06ce35b7dca93cfd4b833c9e15a5339d') in 0.031672 seconds
-  Import took 0.036152 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000410 seconds.
-  path: Assets/Box - 2 copy.png
-  artifactKey: Guid(dbff5ba4813ab0441b75394d347a0e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Box - 2 copy.png using Guid(dbff5ba4813ab0441b75394d347a0e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b20a21e4a2eb2d25dcb98a577a6fe9') in 0.039953 seconds
-  Import took 0.044664 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000384 seconds.
-  path: Assets/Ground 1 Tile.png
-  artifactKey: Guid(80f69217c7927da449705065945907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ground 1 Tile.png using Guid(80f69217c7927da449705065945907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ceaa6913a9c7baed84f786d6da747e6') in 0.049998 seconds
-  Import took 0.055240 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/Monster Snail - 1.png
-  artifactKey: Guid(78d042bd65d3a7246b5a68f3f0181e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Snail - 1.png using Guid(78d042bd65d3a7246b5a68f3f0181e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d81f1cf449823a08d6c870ed773b026') in 0.038755 seconds
-  Import took 0.044735 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000385 seconds.
-  path: Assets/Monster Snail - 2.png
-  artifactKey: Guid(5ee26387ae9d8ec478c8218f36881186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Snail - 2.png using Guid(5ee26387ae9d8ec478c8218f36881186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffdb2cb8b7929c04758aef5dd1e611e1') in 0.037685 seconds
-  Import took 0.042422 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000336 seconds.
-  path: Assets/Ozzy Snow - Front.png
-  artifactKey: Guid(52768b6a5ca353744bd508ab0d8cae8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Front.png using Guid(52768b6a5ca353744bd508ab0d8cae8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c086adfb3ef9ac433cecfa387373bf') in 0.047293 seconds
-  Import took 0.052614 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000394 seconds.
-  path: Assets/Monster Snail - Flat.png
-  artifactKey: Guid(a75228d06d5ece54b98f3db8a778a36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Snail - Flat.png using Guid(a75228d06d5ece54b98f3db8a778a36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db28411d4b8b446ed7bafba479ad379') in 0.036909 seconds
-  Import took 0.042550 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000360 seconds.
-  path: Assets/Ozzy Big - Swimming 1.png
-  artifactKey: Guid(8eb5759d10fa5bf4da7620e10e988089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Swimming 1.png using Guid(8eb5759d10fa5bf4da7620e10e988089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3befed76a0f16d8b41049b33b2731afb') in 0.049453 seconds
-  Import took 0.053797 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000352 seconds.
-  path: Assets/Monster Orange - 1.png
-  artifactKey: Guid(bcd5e2f5718eef043af3a0d3bd8d02b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Orange - 1.png using Guid(bcd5e2f5718eef043af3a0d3bd8d02b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9623c27fc4bb61e328bd308e489d42') in 0.034703 seconds
-  Import took 0.039361 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000434 seconds.
-  path: Assets/Monster Blue - 2.png
-  artifactKey: Guid(c44306757eefa3a4b964d8e0251c6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Blue - 2.png using Guid(c44306757eefa3a4b964d8e0251c6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2de6076000ee73f3b3d0d02a9927f9d') in 0.044735 seconds
-  Import took 0.051107 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000426 seconds.
-  path: Assets/Ozzy Snow - Squatting.png
-  artifactKey: Guid(75ba3249b8e8ab5418011861bacda9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Squatting.png using Guid(75ba3249b8e8ab5418011861bacda9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b602540ea5668eeab66b0c6820303afd') in 0.034421 seconds
-  Import took 0.040020 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000368 seconds.
-  path: Assets/Monster Yellow - 2.png
-  artifactKey: Guid(78cf862f0bce2d944bfea318cc22bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Yellow - 2.png using Guid(78cf862f0bce2d944bfea318cc22bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4494141363998e67daea90a3a778dbca') in 0.042922 seconds
-  Import took 0.048245 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000363 seconds.
-  path: Assets/Monster Blue - Flat.png
-  artifactKey: Guid(64904a81027411f42a9217ec9082240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Blue - Flat.png using Guid(64904a81027411f42a9217ec9082240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db4763dcb9162ee6b601dca6a47ff453') in 0.034287 seconds
-  Import took 0.038743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/Ozzy Big - Jump.png
-  artifactKey: Guid(c3245133bb0e1de4d83bf789e0969940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Jump.png using Guid(c3245133bb0e1de4d83bf789e0969940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dd0551977b0ae92c3d708171a1081ed') in 0.039978 seconds
-  Import took 0.044239 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Box - 3 copy.png
-  artifactKey: Guid(8119381155406bc4c8779988befd9900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Box - 3 copy.png using Guid(8119381155406bc4c8779988befd9900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f44642a89b17c35f3dc9cd12d90a63') in 0.034852 seconds
-  Import took 0.038988 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000339 seconds.
-  path: Assets/Ozzy Snow - Walk 2.png
-  artifactKey: Guid(087c710d730d7734fa9577513c4b6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Walk 2.png using Guid(087c710d730d7734fa9577513c4b6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37558eee41bcc81fef48ab29dddfc72b') in 0.037438 seconds
-  Import took 0.041731 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000333 seconds.
-  path: Assets/Ozzy Big - Skid.png
-  artifactKey: Guid(9302cf2fac31f8b4bb859546f4499966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Skid.png using Guid(9302cf2fac31f8b4bb859546f4499966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2f54ef0c5d23da0ddfa345ff6d4234') in 0.035541 seconds
-  Import took 0.041291 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000352 seconds.
-  path: Assets/Monster Yellow - 1.png
-  artifactKey: Guid(8d0f9877cb60d074ab48efb3357a53a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Yellow - 1.png using Guid(8d0f9877cb60d074ab48efb3357a53a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3a16f7b6515f250e59443dcb0aa0f6') in 0.040668 seconds
-  Import took 0.045376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000408 seconds.
-  path: Assets/Ozzy Snow - Skid.png
-  artifactKey: Guid(47acbdf17b36fef438695f47c3ca05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Skid.png using Guid(47acbdf17b36fef438695f47c3ca05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee30735a13fa6f4af6dcc20033a04e77') in 0.033460 seconds
-  Import took 0.039049 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000603 seconds.
-  path: Assets/Ozzy Big - Swimming 3.png
-  artifactKey: Guid(6e6081716d972fd44906baed422e4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Swimming 3.png using Guid(6e6081716d972fd44906baed422e4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdcee2929ad8bc82718e452ad23b6483') in 0.036569 seconds
-  Import took 0.044532 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000388 seconds.
-  path: Assets/Ozzy Snow - Walk 1.png
-  artifactKey: Guid(5baa56bf3e582da40a197ba29406a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Walk 1.png using Guid(5baa56bf3e582da40a197ba29406a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babbd347911b51e191bc92d86782837d') in 0.039763 seconds
-  Import took 0.046785 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000921 seconds.
-  path: Assets/Monster Yellow - Flat.png
-  artifactKey: Guid(cdadb87d53b7bc143b363568892cd446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Yellow - Flat.png using Guid(cdadb87d53b7bc143b363568892cd446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3494fcf0fef9671c9e2cf535e0b311c4') in 0.040301 seconds
-  Import took 0.048011 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000502 seconds.
-  path: Assets/download.png
-  artifactKey: Guid(5afd89db5e771f24bae3b64c5f5a410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/download.png using Guid(5afd89db5e771f24bae3b64c5f5a410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787c50fbf1554993caf85ad180395369') in 0.032855 seconds
-  Import took 0.039101 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000546 seconds.
-  path: Assets/Monster Blue - 1.png
-  artifactKey: Guid(ad39148ccfe02e04782ef0b63e7297f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Blue - 1.png using Guid(ad39148ccfe02e04782ef0b63e7297f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd07be55515ac0e5f01c2c0c139642606') in 0.042569 seconds
-  Import took 0.052929 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000540 seconds.
-  path: Assets/Monster Orange - 2.png
-  artifactKey: Guid(8bbb9e14971e7804a9c2830d240d6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Orange - 2.png using Guid(8bbb9e14971e7804a9c2830d240d6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e1ae2e2d7eb37628f4ace7509406d8') in 0.042008 seconds
-  Import took 0.047945 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001056 seconds.
-  path: Assets/Ozzy Big - Walk 2.png
-  artifactKey: Guid(45bc9101b2aef6440be96757e6846ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Walk 2.png using Guid(45bc9101b2aef6440be96757e6846ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8b6c04d7574da6a37ac53bc7460907') in 0.054516 seconds
-  Import took 0.060798 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000347 seconds.
-  path: Assets/Monster Purple - 2.png
-  artifactKey: Guid(77ad53ab120bdd34fa16a5cab6a4f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Purple - 2.png using Guid(77ad53ab120bdd34fa16a5cab6a4f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f744e3698b15ccb7c59973c62ec0bdb') in 0.057520 seconds
-  Import took 0.062823 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000374 seconds.
-  path: Assets/Mushroom - 1UP.png
-  artifactKey: Guid(62abc7e7785abb9448a69ecfb7fe58a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Mushroom - 1UP.png using Guid(62abc7e7785abb9448a69ecfb7fe58a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5c572d0e854f3f0e95c81cd36408e4') in 0.088459 seconds
-  Import took 0.094078 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000398 seconds.
-  path: Assets/Monster Fish 1.png
-  artifactKey: Guid(2f7ec516c1a264d49a173bf79a254a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Fish 1.png using Guid(2f7ec516c1a264d49a173bf79a254a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a96661e4e774fbbf5eaef41b5198ea0') in 0.042555 seconds
-  Import took 0.048917 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000428 seconds.
-  path: Assets/Monster Orange - Flat.png
-  artifactKey: Guid(ced0920503ac2db428b510ab3365bd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Monster Orange - Flat.png using Guid(ced0920503ac2db428b510ab3365bd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1906a0ec53e0cedafe74329f0a3ed995') in 0.056710 seconds
-  Import took 0.061822 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000422 seconds.
-  path: Assets/Ozzy Big - Swimming 2.png
-  artifactKey: Guid(9270f4160cadd4e4283c840c95fd0266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Swimming 2.png using Guid(9270f4160cadd4e4283c840c95fd0266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1476a076bf54fe4d6dee09193fc80ce') in 0.040209 seconds
-  Import took 0.047446 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000427 seconds.
-  path: Assets/Ozzy Big - Front.png
-  artifactKey: Guid(59e3ca3def15b6c4c9d282372d0e8595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Big - Front.png using Guid(59e3ca3def15b6c4c9d282372d0e8595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef5290f7295a7c0860468c7b9da55e8') in 0.053208 seconds
-  Import took 0.059342 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000499 seconds.
-  path: Assets/Ozzy Snow - Walk 3.png
-  artifactKey: Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Walk 3.png using Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64b89a64072c2582ed630aa127d7990') in 0.044542 seconds
-  Import took 0.050019 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004684 seconds.
-  path: Assets/Ozzy Snow - Walk 3.png
-  artifactKey: Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Ozzy Snow - Walk 3.png using Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64b89a64072c2582ed630aa127d7990') in 0.030020 seconds
-  Import took 0.036715 seconds .
+  Time since last request: 0.037963 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83c66cae11481964070deaffaf40203') in 0.007726 seconds
+  Import took 0.012630 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
