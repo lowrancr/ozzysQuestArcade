@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.2/staging' branch; Version is '2020.2.0b8 (dff91d65251a) revision 14678301'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 7555 MB
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16263 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,224 +11,494 @@ C:\Program Files\Unity\Hub\Editor\2020.2.0b8\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/histo/Documents/GitHub/ozzysQuestArcade
+C:/Users/lowrancr/OneDrive - Ozarks Technical Community College/Documents/GitHub/ozzysQuestArcade
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52742
-Successfully changed project path to: C:/Users/histo/Documents/GitHub/ozzysQuestArcade
-C:/Users/histo/Documents/GitHub/ozzysQuestArcade
+2239
+Successfully changed project path to: C:/Users/lowrancr/OneDrive - Ozarks Technical Community College/Documents/GitHub/ozzysQuestArcade
+C:/Users/lowrancr/OneDrive - Ozarks Technical Community College/Documents/GitHub/ozzysQuestArcade
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 53.87 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 64.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.0b8 (dff91d65251a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/histo/Documents/GitHub/ozzysQuestArcade/Assets
+[Subsystems] Discovering subsystems at path C:/Users/lowrancr/OneDrive - Ozarks Technical Community College/Documents/GitHub/ozzysQuestArcade/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Renderer: AMD FirePro W2100 (ID=0x6608)
     Vendor:   
-    VRAM:     3777 MB
-    Driver:   27.20.100.8189
+    VRAM:     2028 MB
+    Driver:   24.20.11001.11006
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56952
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.009793 seconds.
+Registered in 0.001816 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 54.32 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 26.62 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.214 seconds
+- Completed reload, in  1.128 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002211 seconds.
+Registered in 0.000678 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.773 seconds
+- Completed reload, in  0.789 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
-Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1146 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 58.8 MB.
-System memory in use after: 58.9 MB.
+System memory in use before: 59.3 MB.
+System memory in use after: 59.3 MB.
 
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1587.
-Total: 3.108600 ms (FindLiveObjects: 0.429400 ms CreateObjectMapping: 0.088700 ms MarkObjects: 2.506400 ms  DeleteObjects: 0.081500 ms)
+Total: 2.241800 ms (FindLiveObjects: 0.374600 ms CreateObjectMapping: 0.080000 ms MarkObjects: 1.738900 ms  DeleteObjects: 0.047000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Sunnyland/Scenes
-  artifactKey: Guid(5067ec585fac34dd6937038f96d8136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/Scenes using Guid(5067ec585fac34dd6937038f96d8136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1ec508963866c5962e10db38ed05e5') in 0.019748 seconds
-  Import took 0.024369 seconds .
+  path: Assets/Scenes
+  artifactKey: Guid(8707ba8d18aa5c14daa27cdd5db35609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(8707ba8d18aa5c14daa27cdd5db35609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9be05fd3d49716753c3f633f151ba43') in 0.034538 seconds
+  Import took 0.036904 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001007 seconds.
-  path: Assets/Sunnyland/artwork
-  artifactKey: Guid(2f17d1e6a207e4d8eb72bd03b1b645ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork using Guid(2f17d1e6a207e4d8eb72bd03b1b645ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd8475a12e2057f691ebd124e26474a') in 0.018514 seconds
-  Import took 0.025283 seconds .
+  Time since last request: 0.000197 seconds.
+  path: Assets/Monster Purple - 1.png
+  artifactKey: Guid(cfcc44c16d0e7724d989780c400b8670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Purple - 1.png using Guid(cfcc44c16d0e7724d989780c400b8670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226a945ef45e1f3854ddee7a2dfb226f') in 0.214158 seconds
+  Import took 0.216433 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000445 seconds.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Ozzy Big - Walk 3.png
+  artifactKey: Guid(5b9ba3ace0e28014f9250a322b49879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Walk 3.png using Guid(5b9ba3ace0e28014f9250a322b49879b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ea35a0173c8fd57e349603e80e34fe') in 0.018045 seconds
+  Import took 0.021916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Ozzy Big - Walk 1.png
+  artifactKey: Guid(acab69a2779d85b409bb241d9dd9fbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Walk 1.png using Guid(acab69a2779d85b409bb241d9dd9fbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52aa2a29e9f16c2b990980ace008afb5') in 0.023376 seconds
+  Import took 0.039307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Monster Fish 2.png
+  artifactKey: Guid(830003a21616360438bd1b4ca5455d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Fish 2.png using Guid(830003a21616360438bd1b4ca5455d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a7c7b2bb7cd3fb4a4945ac4fbb61c9') in 0.012732 seconds
+  Import took 0.016930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Brick.png
+  artifactKey: Guid(d8bfdeb7fe64ae94e924d7546e340c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Brick.png using Guid(d8bfdeb7fe64ae94e924d7546e340c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a745562e8bb1e33b0a77b2b81c22bec6') in 0.018832 seconds
+  Import took 0.022690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Monster Purple - Flat.png
+  artifactKey: Guid(5136e6d13cd0fa544992d85bf872b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Purple - Flat.png using Guid(5136e6d13cd0fa544992d85bf872b51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ff7dda75a9d1bd77f6ff775c3fdca6') in 0.020285 seconds
+  Import took 0.023473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Ozzy Snow - Jump.png
+  artifactKey: Guid(efa54dfd8f2a6c349ae5323064dfd66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Jump.png using Guid(efa54dfd8f2a6c349ae5323064dfd66b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2466f092952f4193d4b859d7ac3021') in 0.025781 seconds
+  Import took 0.028869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Ozzy Big - Squatting.png
+  artifactKey: Guid(79521cb8c04705249801256cf781480d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Squatting.png using Guid(79521cb8c04705249801256cf781480d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34dd7b009e2545ce5786ff400cc0756') in 0.020667 seconds
+  Import took 0.023825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Ozzy Small - Dies.png
+  artifactKey: Guid(e6e944f2ea328d44db23cfd7d6037825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Small - Dies.png using Guid(e6e944f2ea328d44db23cfd7d6037825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b96dc57916a3469763d3592331e6d56') in 0.023881 seconds
+  Import took 0.026392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Box - 1 copy.png
+  artifactKey: Guid(a373a7bb6a8304346a8544ffce16f10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box - 1 copy.png using Guid(a373a7bb6a8304346a8544ffce16f10d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f36ccbbaf4cfe6fdc4fa1a93288aae') in 0.018965 seconds
+  Import took 0.021641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Box - 2 copy.png
+  artifactKey: Guid(dbff5ba4813ab0441b75394d347a0e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box - 2 copy.png using Guid(dbff5ba4813ab0441b75394d347a0e9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14fefb3357ac6877340b1d3666d9fdc') in 0.018134 seconds
+  Import took 0.020354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Ground 1 Tile.png
+  artifactKey: Guid(80f69217c7927da449705065945907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ground 1 Tile.png using Guid(80f69217c7927da449705065945907ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe82ed73ffa08d3369fb5bcddb95180') in 0.022584 seconds
+  Import took 0.025737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Monster Snail - 1.png
+  artifactKey: Guid(78d042bd65d3a7246b5a68f3f0181e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Snail - 1.png using Guid(78d042bd65d3a7246b5a68f3f0181e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ba37ae54c7e2a78a04c0818abd0316') in 0.017966 seconds
+  Import took 0.021106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Monster Snail - 2.png
+  artifactKey: Guid(5ee26387ae9d8ec478c8218f36881186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Snail - 2.png using Guid(5ee26387ae9d8ec478c8218f36881186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be91d6f7b1812550b6becbc77036f243') in 0.016816 seconds
+  Import took 0.020386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Ozzy Snow - Front.png
+  artifactKey: Guid(52768b6a5ca353744bd508ab0d8cae8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Front.png using Guid(52768b6a5ca353744bd508ab0d8cae8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c8feb98cb25801fbe3bb7c35fbc4171') in 0.019856 seconds
+  Import took 0.023279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Monster Snail - Flat.png
+  artifactKey: Guid(a75228d06d5ece54b98f3db8a778a36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Snail - Flat.png using Guid(a75228d06d5ece54b98f3db8a778a36b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a65e6d514be9b068b4ef8ee57657986') in 0.033984 seconds
+  Import took 0.038374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000796 seconds.
+  path: Assets/Ozzy Big - Swimming 1.png
+  artifactKey: Guid(8eb5759d10fa5bf4da7620e10e988089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Swimming 1.png using Guid(8eb5759d10fa5bf4da7620e10e988089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe687d2d1e03530bce31e78d959bd507') in 0.051394 seconds
+  Import took 0.063528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Monster Orange - 1.png
+  artifactKey: Guid(bcd5e2f5718eef043af3a0d3bd8d02b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Orange - 1.png using Guid(bcd5e2f5718eef043af3a0d3bd8d02b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9192a4d571ff8a51f7aa231acc8e16') in 0.059420 seconds
+  Import took 0.066056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Monster Blue - 2.png
+  artifactKey: Guid(c44306757eefa3a4b964d8e0251c6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Blue - 2.png using Guid(c44306757eefa3a4b964d8e0251c6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac20b004fc8444dc7fa0dd9267cfb742') in 0.078346 seconds
+  Import took 0.083985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Ozzy Snow - Squatting.png
+  artifactKey: Guid(75ba3249b8e8ab5418011861bacda9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Squatting.png using Guid(75ba3249b8e8ab5418011861bacda9af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460f40a418de20a673c97825dd9bed8b') in 0.023111 seconds
+  Import took 0.027599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Monster Yellow - 2.png
+  artifactKey: Guid(78cf862f0bce2d944bfea318cc22bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Yellow - 2.png using Guid(78cf862f0bce2d944bfea318cc22bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f77682ac5c0769339366bae63ca6d41') in 0.027926 seconds
+  Import took 0.031580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Monster Blue - Flat.png
+  artifactKey: Guid(64904a81027411f42a9217ec9082240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Blue - Flat.png using Guid(64904a81027411f42a9217ec9082240a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ddceb03500f6d3f4d252bb40232e0f') in 0.048656 seconds
+  Import took 0.052612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Ozzy Big - Jump.png
+  artifactKey: Guid(c3245133bb0e1de4d83bf789e0969940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Jump.png using Guid(c3245133bb0e1de4d83bf789e0969940) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a7c63ded32e0141423941e30ea0e40') in 0.027668 seconds
+  Import took 0.032911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Box - 3 copy.png
+  artifactKey: Guid(8119381155406bc4c8779988befd9900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box - 3 copy.png using Guid(8119381155406bc4c8779988befd9900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40fc178fbd949c78e9a8c4460dabe7ac') in 0.029130 seconds
+  Import took 0.033189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Ozzy Snow - Walk 2.png
+  artifactKey: Guid(087c710d730d7734fa9577513c4b6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Walk 2.png using Guid(087c710d730d7734fa9577513c4b6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30b0b9697ec04dc28cab7cfd1575763') in 0.019127 seconds
+  Import took 0.022927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Ozzy Big - Skid.png
+  artifactKey: Guid(9302cf2fac31f8b4bb859546f4499966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Skid.png using Guid(9302cf2fac31f8b4bb859546f4499966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1dbff3581e30a8dfcb1185a5c37d1a5') in 0.016469 seconds
+  Import took 0.019130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Monster Yellow - 1.png
+  artifactKey: Guid(8d0f9877cb60d074ab48efb3357a53a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Yellow - 1.png using Guid(8d0f9877cb60d074ab48efb3357a53a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b511311f0536092c74f8fac41427ec') in 0.018688 seconds
+  Import took 0.022185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Ozzy Snow - Skid.png
+  artifactKey: Guid(47acbdf17b36fef438695f47c3ca05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Skid.png using Guid(47acbdf17b36fef438695f47c3ca05de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47882d8c2b370bd9c1937c13ee86e7e8') in 0.018200 seconds
+  Import took 0.022009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Ozzy Big - Swimming 3.png
+  artifactKey: Guid(6e6081716d972fd44906baed422e4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Swimming 3.png using Guid(6e6081716d972fd44906baed422e4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff13405cc60ab92f65ef0cd9ce12977') in 0.022718 seconds
+  Import took 0.029799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Ozzy Snow - Walk 1.png
+  artifactKey: Guid(5baa56bf3e582da40a197ba29406a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Walk 1.png using Guid(5baa56bf3e582da40a197ba29406a8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845bb45e1644b961384f5f8a501bbb16') in 0.015967 seconds
+  Import took 0.019132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Monster Yellow - Flat.png
+  artifactKey: Guid(cdadb87d53b7bc143b363568892cd446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Yellow - Flat.png using Guid(cdadb87d53b7bc143b363568892cd446) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecb3e130a6e457122c3df3a706accbff') in 0.015187 seconds
+  Import took 0.018024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/download.png
+  artifactKey: Guid(5afd89db5e771f24bae3b64c5f5a410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.png using Guid(5afd89db5e771f24bae3b64c5f5a410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0c58993290330ffe15da6160c2415e') in 0.012035 seconds
+  Import took 0.014677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Monster Blue - 1.png
+  artifactKey: Guid(ad39148ccfe02e04782ef0b63e7297f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Blue - 1.png using Guid(ad39148ccfe02e04782ef0b63e7297f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7f3f06cda86a74c452bd47cdf9274b') in 0.013952 seconds
+  Import took 0.016549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Monster Orange - 2.png
+  artifactKey: Guid(8bbb9e14971e7804a9c2830d240d6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Orange - 2.png using Guid(8bbb9e14971e7804a9c2830d240d6570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb02a76bf2c80949f6015e987ea2d491') in 0.016823 seconds
+  Import took 0.019665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Ozzy Big - Walk 2.png
+  artifactKey: Guid(45bc9101b2aef6440be96757e6846ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Walk 2.png using Guid(45bc9101b2aef6440be96757e6846ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5113c5a08488b52be1bf03852a0520b4') in 0.017173 seconds
+  Import took 0.019874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Monster Purple - 2.png
+  artifactKey: Guid(77ad53ab120bdd34fa16a5cab6a4f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Purple - 2.png using Guid(77ad53ab120bdd34fa16a5cab6a4f95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db58e23b9cf8b079b690a81a51caaef') in 0.031781 seconds
+  Import took 0.034437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Mushroom - 1UP.png
+  artifactKey: Guid(62abc7e7785abb9448a69ecfb7fe58a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mushroom - 1UP.png using Guid(62abc7e7785abb9448a69ecfb7fe58a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393f0da5bf93912c49eef06a14e0a755') in 0.018795 seconds
+  Import took 0.021599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Monster Fish 1.png
+  artifactKey: Guid(2f7ec516c1a264d49a173bf79a254a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Fish 1.png using Guid(2f7ec516c1a264d49a173bf79a254a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9aca69861d6c675648452033126357a') in 0.017089 seconds
+  Import took 0.020388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Monster Orange - Flat.png
+  artifactKey: Guid(ced0920503ac2db428b510ab3365bd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Monster Orange - Flat.png using Guid(ced0920503ac2db428b510ab3365bd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54de7786ee4e30d0b2e9e2ea931fe899') in 0.017385 seconds
+  Import took 0.021480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Ozzy Big - Swimming 2.png
+  artifactKey: Guid(9270f4160cadd4e4283c840c95fd0266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Swimming 2.png using Guid(9270f4160cadd4e4283c840c95fd0266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2383dc92800ef8921da0e8678fa03dd0') in 0.020321 seconds
+  Import took 0.023144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Ozzy Big - Front.png
+  artifactKey: Guid(59e3ca3def15b6c4c9d282372d0e8595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Big - Front.png using Guid(59e3ca3def15b6c4c9d282372d0e8595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd2d552539f76e3c1935370b2eb1170') in 0.024467 seconds
+  Import took 0.026904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
   path: Assets/Sunnyland
   artifactKey: Guid(425ae7c07a899174e939841bed9e745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland using Guid(425ae7c07a899174e939841bed9e745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5bae350e30dce1f51ea38254db4f82') in 0.015786 seconds
-  Import took 0.022445 seconds .
+Start importing Assets/Sunnyland using Guid(425ae7c07a899174e939841bed9e745c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de0b29b90e88527ed6383ecdace8cded') in 0.008089 seconds
+  Import took 0.010325 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.743995 seconds.
-  path: Assets/Sunnyland/Scenes/demo.unity
-  artifactKey: Guid(cbd2611183a8d41e8b5ae48b2b35bbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/Scenes/demo.unity using Guid(cbd2611183a8d41e8b5ae48b2b35bbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305efc39c4d2cebeb9341cc85da8f4fc') in 0.026386 seconds
-  Import took 0.030993 seconds .
+  Time since last request: 0.000143 seconds.
+  path: Assets/Ozzy Snow - Walk 3.png
+  artifactKey: Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ozzy Snow - Walk 3.png using Guid(f5642f993d4f8c04297a97c36bbe3293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1c4eb83ecc705f80ac1a346649e589') in 0.017156 seconds
+  Import took 0.020224 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000317 seconds.
-  path: Assets/Sunnyland/Scenes/demoSettings.lighting
-  artifactKey: Guid(21cdbf26fb25e0141bcc8bec6d7cb9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/Scenes/demoSettings.lighting using Guid(21cdbf26fb25e0141bcc8bec6d7cb9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: '3ce1211c9492bf109ccfd0b123ef09f7') in 0.132966 seconds
-  Import took 0.137070 seconds .
+  Time since last request: 1200.937765 seconds.
+  path: Assets/Sunnyland/artwork
+  artifactKey: Guid(2f17d1e6a207e4d8eb72bd03b1b645ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork using Guid(2f17d1e6a207e4d8eb72bd03b1b645ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c701f3f9fc6e69d3a8fc41055bb8d8b7') in 0.018926 seconds
+  Import took 0.022144 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.096133 seconds.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Sunnyland/Scenes
+  artifactKey: Guid(5067ec585fac34dd6937038f96d8136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/Scenes using Guid(5067ec585fac34dd6937038f96d8136d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78844d1b8aa0a170df77d69aa7f9b84e') in 0.002799 seconds
+  Import took 0.006378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.699023 seconds.
   path: Assets/Sunnyland/artwork/Environment
   artifactKey: Guid(7174750bdca91466fa784bba50da49b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment using Guid(7174750bdca91466fa784bba50da49b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2646efac03e06c4aa541cd70920067c4') in 0.013598 seconds
-  Import took 0.019100 seconds .
+Start importing Assets/Sunnyland/artwork/Environment using Guid(7174750bdca91466fa784bba50da49b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3868e02bc74ebab01c82d447338d775') in 0.005637 seconds
+  Import took 0.008739 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000351 seconds.
+  Time since last request: 0.000168 seconds.
   path: Assets/Sunnyland/artwork/Sprites
   artifactKey: Guid(b6238935cfd4648cf866141c0ee28c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Sprites using Guid(b6238935cfd4648cf866141c0ee28c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59377e2d8c678cefc665ac3aec195de9') in 0.015301 seconds
-  Import took 0.019210 seconds .
+Start importing Assets/Sunnyland/artwork/Sprites using Guid(b6238935cfd4648cf866141c0ee28c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f8cbef6e4a7a4742b945be8c603231') in 0.007024 seconds
+  Import took 0.009221 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.513876 seconds.
+  Time since last request: 1.502131 seconds.
   path: Assets/Sunnyland/artwork/Environment/props
   artifactKey: Guid(15e7312e0607f4e84aeacdc44a70744c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment/props using Guid(15e7312e0607f4e84aeacdc44a70744c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b563ae17df132960fa5e8e2a8de819') in 0.014811 seconds
-  Import took 0.020522 seconds .
+Start importing Assets/Sunnyland/artwork/Environment/props using Guid(15e7312e0607f4e84aeacdc44a70744c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65070afa5ae8f73c7be5387d212b77bc') in 0.007881 seconds
+  Import took 0.010163 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000390 seconds.
+  Time since last request: 0.000162 seconds.
   path: Assets/Sunnyland/artwork/Environment/tileset-sliced.png
   artifactKey: Guid(261212b977f594d5dbc48631a5c1295c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment/tileset-sliced.png using Guid(261212b977f594d5dbc48631a5c1295c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ad134f01540364e9ec3cc765b112f2') in 0.531663 seconds
-  Import took 0.537743 seconds .
+Start importing Assets/Sunnyland/artwork/Environment/tileset-sliced.png using Guid(261212b977f594d5dbc48631a5c1295c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420ebd8316fc0df33660c52ffb03869b') in 0.196174 seconds
+  Import took 0.199304 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000322 seconds.
+  Time since last request: 0.000168 seconds.
   path: Assets/Sunnyland/artwork/Environment/middle.png
   artifactKey: Guid(de41d366c687a46beb6a9acaa88c12db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment/middle.png using Guid(de41d366c687a46beb6a9acaa88c12db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0ada8cb603d6bb895fca30268f888b') in 0.041213 seconds
-  Import took 0.045965 seconds .
+Start importing Assets/Sunnyland/artwork/Environment/middle.png using Guid(de41d366c687a46beb6a9acaa88c12db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8cfb5f2b963e6b448ce160d90151af') in 0.016863 seconds
+  Import took 0.020167 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000345 seconds.
+  Time since last request: 0.000198 seconds.
   path: Assets/Sunnyland/artwork/Environment/back.png
   artifactKey: Guid(8e160a2a620644cd6afef9119dad1093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment/back.png using Guid(8e160a2a620644cd6afef9119dad1093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde10e129892e988ec6f868be072d99c') in 0.039263 seconds
-  Import took 0.044419 seconds .
+Start importing Assets/Sunnyland/artwork/Environment/back.png using Guid(8e160a2a620644cd6afef9119dad1093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c570bf2f1e24961e8ac0c11f0bc2e56d') in 0.020749 seconds
+  Import took 0.024421 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000560 seconds.
+  Time since last request: 0.000263 seconds.
   path: Assets/Sunnyland/artwork/Environment/tileset.png
   artifactKey: Guid(3b66e1a27c9634fe9a4746c47eeda7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment/tileset.png using Guid(3b66e1a27c9634fe9a4746c47eeda7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ace9ab608a46e29938cd6cce09d87fc') in 0.038110 seconds
-  Import took 0.043708 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.024134 seconds.
-  path: Assets/Sunnyland/artwork/Environment/tileset.png
-  artifactKey: Guid(3b66e1a27c9634fe9a4746c47eeda7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Environment/tileset.png using Guid(3b66e1a27c9634fe9a4746c47eeda7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ace9ab608a46e29938cd6cce09d87fc') in 0.034140 seconds
-  Import took 0.040945 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 27.215748 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4c7021784bf63861b176a82a2b083e') in 0.021703 seconds
-  Import took 0.026754 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000339 seconds.
-  path: Assets/Scenes/SampleSceneSettings.lighting
-  artifactKey: Guid(cf7739a73cae8a14bae5ac7e62357036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleSceneSettings.lighting using Guid(cf7739a73cae8a14bae5ac7e62357036) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'fd8752bee7856f2801380f43e4624730') in 0.017673 seconds
-  Import took 0.022791 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.981204 seconds.
-  path: Assets/Sunnyland/artwork/Sprites/Enemies
-  artifactKey: Guid(c7f1351336fe548caa5323a57a6c930a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Sprites/Enemies using Guid(c7f1351336fe548caa5323a57a6c930a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a392359d660fe8063a43c0af12999b4') in 0.013599 seconds
-  Import took 0.022519 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000355 seconds.
-  path: Assets/Sunnyland/artwork/Sprites/Items
-  artifactKey: Guid(b43334bbe1d1849df80f90877d981b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Sprites/Items using Guid(b43334bbe1d1849df80f90877d981b8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d76630408d81a51ceb34752aee6e0d1') in 0.016010 seconds
-  Import took 0.020644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000354 seconds.
-  path: Assets/Sunnyland/artwork/Sprites/player
-  artifactKey: Guid(c38f07c49aff74810b5ee46bc2a90197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Sprites/player using Guid(c38f07c49aff74810b5ee46bc2a90197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e960d85b39c1f28215d0dec0ec49b2') in 0.014261 seconds
-  Import took 0.019389 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000307 seconds.
-  path: Assets/Sunnyland/artwork/Sprites/Fx
-  artifactKey: Guid(879348f5081814f15b74a637aff1805d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sunnyland/artwork/Sprites/Fx using Guid(879348f5081814f15b74a637aff1805d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd794d1cf325c8c4601db2825345ebf3') in 0.012446 seconds
-  Import took 0.016922 seconds .
+Start importing Assets/Sunnyland/artwork/Environment/tileset.png using Guid(3b66e1a27c9634fe9a4746c47eeda7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf9970fbc799365ebd3961a11132ebd') in 0.020509 seconds
+  Import took 0.024335 seconds .
 
 ========================================================================
 Received Prepare
@@ -237,39 +507,325 @@ Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.006083 seconds.
-Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Registered in 0.002503 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 90.87 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 27.96 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.136 seconds
+- Completed reload, in  0.975 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003488 seconds.
+Registered in 0.000905 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\histo\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.202 seconds
+- Completed reload, in  0.984 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 39.6 MB.
-System memory in use after: 39.7 MB.
+System memory in use before: 39.7 MB.
+System memory in use after: 39.8 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1603.
-Total: 5.345400 ms (FindLiveObjects: 0.997900 ms CreateObjectMapping: 0.126500 ms MarkObjects: 4.172600 ms  DeleteObjects: 0.045200 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 2.502600 ms (FindLiveObjects: 0.369800 ms CreateObjectMapping: 0.086800 ms MarkObjects: 2.026900 ms  DeleteObjects: 0.017800 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001645 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.833 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.8 MB.
+System memory in use after: 39.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.556100 ms (FindLiveObjects: 0.267400 ms CreateObjectMapping: 0.048900 ms MarkObjects: 1.226400 ms  DeleteObjects: 0.012000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001981 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 28.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000907 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.565 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.8 MB.
+System memory in use after: 40.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 2.525100 ms (FindLiveObjects: 0.506300 ms CreateObjectMapping: 0.073500 ms MarkObjects: 1.895400 ms  DeleteObjects: 0.047000 ms)
+
+========================================================================
+Received Prepare
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0b8/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001604 seconds.
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000813 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\lowrancr\OneDrive - Ozarks Technical Community College\Documents\GitHub\ozzysQuestArcade\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 39.9 MB.
+System memory in use after: 40.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 1.594000 ms (FindLiveObjects: 0.264500 ms CreateObjectMapping: 0.045900 ms MarkObjects: 1.270200 ms  DeleteObjects: 0.012100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 548.277810 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/big-crate.png
+  artifactKey: Guid(3fc2bbd409bf34ab6af1637bab569da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/big-crate.png using Guid(3fc2bbd409bf34ab6af1637bab569da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e5a02ca5f6aa6dccaf131837db8450') in 0.050927 seconds
+  Import took 0.054156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/spikes-top.png
+  artifactKey: Guid(c6803a2a3fe7f45e786b788e8ddb6771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/spikes-top.png using Guid(c6803a2a3fe7f45e786b788e8ddb6771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b323ee93338a3c353387b219b47f5189') in 0.015401 seconds
+  Import took 0.018611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/spike-skull.png
+  artifactKey: Guid(a225befe4953547da8c4133e5d585029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/spike-skull.png using Guid(a225befe4953547da8c4133e5d585029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49bd58b59d4fe5395583e5ad4f606362') in 0.018939 seconds
+  Import took 0.021986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/tree.png
+  artifactKey: Guid(f7187675ec12e4aacaeb0e97ad31230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/tree.png using Guid(f7187675ec12e4aacaeb0e97ad31230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8586c21d8f0cc49330b05945ace0b575') in 0.019152 seconds
+  Import took 0.021798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/door.png
+  artifactKey: Guid(8a26d60fb45014bcd9bb392106f7c98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/door.png using Guid(8a26d60fb45014bcd9bb392106f7c98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e406846b78dd624c4987967c34ff73f') in 0.019841 seconds
+  Import took 0.023434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/platform-long.png
+  artifactKey: Guid(15fdc3c0ac15e4a62b3f968392db8b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/platform-long.png using Guid(15fdc3c0ac15e4a62b3f968392db8b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c953ab56215bd6f9a8489f377fc2476a') in 0.017293 seconds
+  Import took 0.021018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/sign.png
+  artifactKey: Guid(42820af2772f24bda991ed7de294c2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/sign.png using Guid(42820af2772f24bda991ed7de294c2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba89298d54e6af1225cd5b02b4700e00') in 0.017411 seconds
+  Import took 0.020229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/crank-down.png
+  artifactKey: Guid(d3240c946631a4966b1bcab3db999126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/crank-down.png using Guid(d3240c946631a4966b1bcab3db999126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c9e175d94f1a31b46b7f3544344a1e3') in 0.019712 seconds
+  Import took 0.023761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/shrooms.png
+  artifactKey: Guid(f106f73fc33df4c4d9a3e8a5cb54db28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/shrooms.png using Guid(f106f73fc33df4c4d9a3e8a5cb54db28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4acb7696ac83e80ab9e3c3fc960ee3') in 0.021896 seconds
+  Import took 0.025226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/skulls.png
+  artifactKey: Guid(a86fabb3151544d25b4310ff397f732a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/skulls.png using Guid(a86fabb3151544d25b4310ff397f732a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43535e677b15bae7db7930f52461bc64') in 0.017103 seconds
+  Import took 0.019847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/house.png
+  artifactKey: Guid(52422ada2db954026a3ae1f1ba6b4486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/house.png using Guid(52422ada2db954026a3ae1f1ba6b4486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8a995c73c7146774c474a3595f3dc3') in 0.021982 seconds
+  Import took 0.025743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/rock.png
+  artifactKey: Guid(3604a08945c65491a9ffb90ad9a8ff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/rock.png using Guid(3604a08945c65491a9ffb90ad9a8ff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c6f42cf75d0e1d84bc1b7965d9a76c') in 0.026623 seconds
+  Import took 0.030696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/block-big.png
+  artifactKey: Guid(5bccf13ce09bd43e39c1c3416d5de92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/block-big.png using Guid(5bccf13ce09bd43e39c1c3416d5de92c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c70b36a718623d1b28c23cf23dcffbc') in 0.016748 seconds
+  Import took 0.019812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/crate.png
+  artifactKey: Guid(794aa25d484d140d89ea9601c122ece0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/crate.png using Guid(794aa25d484d140d89ea9601c122ece0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f2ee9fb4581e2a1772c7aed02108e4') in 0.029315 seconds
+  Import took 0.033239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/spikes.png
+  artifactKey: Guid(0049772a1acaf4a49b69bb504ffe2669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/spikes.png using Guid(0049772a1acaf4a49b69bb504ffe2669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd47d2ab3410a4b2505441547723aa431') in 0.017309 seconds
+  Import took 0.021380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/bush.png
+  artifactKey: Guid(ecc204495234d40f091d828790c56287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/bush.png using Guid(ecc204495234d40f091d828790c56287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce05aa7c005d00b25a0478a8982fdbc') in 0.016732 seconds
+  Import took 0.020564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/face-block.png
+  artifactKey: Guid(f34e83b5f0fe1432cb87276148dc6341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/face-block.png using Guid(f34e83b5f0fe1432cb87276148dc6341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26bc4a93fb3f80d20462f4b9743671d') in 0.022050 seconds
+  Import took 0.025958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/block.png
+  artifactKey: Guid(8a8849b7b8b964564b9e89cb1ded0658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/block.png using Guid(8a8849b7b8b964564b9e89cb1ded0658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38e9f0fe62a930dccf8964d67fb1150') in 0.026071 seconds
+  Import took 0.029173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/crank-up.png
+  artifactKey: Guid(441a2d89600064d4d9ced045b19d0ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/crank-up.png using Guid(441a2d89600064d4d9ced045b19d0ae6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a5d70a532e03ea3f2ff097ee5531d1') in 0.016882 seconds
+  Import took 0.020431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Sunnyland/artwork/Environment/props/small-platform.png
+  artifactKey: Guid(d3ae29bc873704d6197af9ad030f1b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sunnyland/artwork/Environment/props/small-platform.png using Guid(d3ae29bc873704d6197af9ad030f1b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c24414984cc5cfea73968e972af42fa') in 0.016643 seconds
+  Import took 0.019730 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
